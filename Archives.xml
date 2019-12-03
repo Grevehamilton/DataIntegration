@@ -1,2 +1,5 @@
-<ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1575368460396" Description="" Name="test" PackageName="test.spk" UserID="sasdemo@SASBAP" Version="c91f326">
+<ContainObj>SBIP://METASERVER/patric/sniff(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
