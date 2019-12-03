@@ -11,4 +11,8 @@
 <ArchInfo Date="1575377416320" Description="" Name="test" PackageName="test.spk" UserID="sasdemo@SASBAP" Version="eadfdd8">
 <ContainObj>SBIP://METASERVER/patric/sniff(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1575377525522" Description="" Name="test" PackageName="test.spk" UserID="sasdemo@SASBAP" Version="ac47104">
+<ContainObj>SBIP://METASERVER/patric/sniff(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/patric/sniff.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
