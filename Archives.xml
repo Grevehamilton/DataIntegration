@@ -2,4 +2,7 @@
 <ArchInfo Date="1575368460396" Description="" Name="test" PackageName="test.spk" UserID="sasdemo@SASBAP" Version="c91f326">
 <ContainObj>SBIP://METASERVER/patric/sniff(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1575376646744" Description="" Name="test2" PackageName="test2.spk" UserID="sasdemo@SASBAP" Version="17382d1">
+<ContainObj>SBIP://METASERVER/patric/sniff(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
